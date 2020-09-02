@@ -1,0 +1,15 @@
+.cart{
+    width: 20%;
+    position:right;
+    height: 100px;
+    background-color:purple;
+    color: white;
+    text-align: right;
+    margin-left:80%;
+    border-radius:15px;
+}
+.bottom{
+    margin-right: 50px;
+    padding: 10px;
+    padding-right: 20px;
+}
